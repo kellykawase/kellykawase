@@ -1,16 +1,14 @@
+## Kelly Kawase
 ### Hi there 👋
 
-<!--
-**kellykawase/kellykawase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kellykawase)](https://github.com/kellykawase)
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/kellykawase/)](https://br.linkedin.com/in/kellykawase/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-yellow?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.kellykawase.com/)](https://youtube.kellykawase.com/)
+
+![Kelly Kawase's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellykawase&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=f1e05a&text_color=fff&icon_color=f1e05a)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellykawase&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=f1e05a)](https://github.com/kellykawase/github-readme-stats)
+
