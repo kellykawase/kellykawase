@@ -1,4 +1,3 @@
-## Kelly Kawase
 ### Hi 👋, I'm Kelly Kawase
 
 
